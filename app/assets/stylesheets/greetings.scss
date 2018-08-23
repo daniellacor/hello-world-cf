@@ -1,0 +1,13 @@
+// Place all the styles related to the Greetings controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+html, body {
+    margin:0;
+    padding:0;
+}
+h1 {
+    margin:0;
+    position: fixed; /* or absolute */
+  top: 50%;
+  left: 35%;
+}
